@@ -2,12 +2,15 @@
 
 # init the project
 
-bash:
+```bash
 git init
-git remote add origin [ssh repo]
+git remote add origin SSH_REPO
+git branch -M main
+git push origin main
+```
 
 # write a commit
 
-title of commit
+- title of commit
 
-description of commit with informations and evolution about the project
+- description of commit with informations and evolution about the project
