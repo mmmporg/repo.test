@@ -4,6 +4,7 @@
 
 bash:
 git init
+git remote add origin [ssh repo]
 
 # write a commit
 
