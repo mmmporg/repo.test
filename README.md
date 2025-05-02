@@ -1,6 +1,6 @@
 # Doc of github and git tuto
 
-# init the project
+## init the project
 
 ```bash
 git init
@@ -9,8 +9,14 @@ git branch -M main
 git push origin main
 ```
 
-# write a commit
+## write a commit
 
 - title of commit
 
 - description of commit with informations and evolution about the project
+
+## Creation of a branch
+
+```bash
+git checkout -b NAME_OF_BRANCH
+```
