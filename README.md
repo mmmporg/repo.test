@@ -20,3 +20,9 @@ git push origin main
 ```bash
 git checkout -b NAME_OF_BRANCH
 ```
+
+for good practices, we are going to integrate the notion of review of code:
+- create a branch
+- do some modifications
+- send it to the repository (online)
+- create a pull-request to ask a review of code
