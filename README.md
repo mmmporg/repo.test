@@ -26,3 +26,10 @@ for good practices, we are going to integrate the notion of review of code:
 - do some modifications
 - send it to the repository (online)
 - create a pull-request to ask a review of code
+## Send a commit to the distant repository
+
+```bash
+git add .
+git commit -m "title of the commit"
+git push origin main
+```
