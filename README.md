@@ -39,3 +39,6 @@ git push origin main
 ```bash
 git checkout -b _branch_name
 ```
+
+For good practiced we are going to integrate the concept of code review. To do this, we will need to create a branch, make modifications, push them to the remote repository, and then create a pull request to request a code review.
+
