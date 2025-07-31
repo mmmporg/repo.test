@@ -20,3 +20,10 @@ git push origin main
 ```bash
 git checkout -b NAME_OF_BRANCH
 ```
+## Send a commit to the distant repository
+
+```bash
+git add .
+git commit -m "title of the commit"
+git push origin main
+```
