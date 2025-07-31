@@ -33,3 +33,9 @@ git add .
 git commit -m "title of the commit"
 git push origin main
 ```
+
+## Creation of branch
+
+```bash
+git checkout -b _branch_name
+```
