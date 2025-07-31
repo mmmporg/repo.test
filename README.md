@@ -25,7 +25,7 @@ for good practices, we are going to integrate the notion of review of code:
 - create a branch
 - do some modifications
 - send it to the repository (online)
-- create a pull-request to ask a review of code
+
 ## Send a commit to the distant repository
 
 ```bash
