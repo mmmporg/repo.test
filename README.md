@@ -20,6 +20,12 @@ git push origin main
 ```bash
 git checkout -b NAME_OF_BRANCH
 ```
+
+for good practices, we are going to integrate the notion of review of code:
+- create a branch
+- do some modifications
+- send it to the repository (online)
+
 ## Send a commit to the distant repository
 
 ```bash
@@ -27,3 +33,12 @@ git add .
 git commit -m "title of the commit"
 git push origin main
 ```
+
+## Creation of branch
+
+```bash
+git checkout -b _branch_name
+```
+
+For good practiced we are going to integrate the concept of code review. To do this, we will need to create a branch, make modifications, push them to the remote repository, and then create a pull request to request a code review.
+
